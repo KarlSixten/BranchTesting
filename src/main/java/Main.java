@@ -11,5 +11,6 @@ public class Main {
 
         dog.mood(true);
         cat.mood(false);
+        System.out.println("Hello main method");
     }
 }
