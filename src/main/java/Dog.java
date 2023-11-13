@@ -16,4 +16,9 @@ public class Dog extends Animal {
             System.out.println("Knurrer");
         }
     }
+
+    @Override
+    public void jump(double distance) {
+
+    }
 }
